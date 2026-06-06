@@ -11,25 +11,7 @@
 
 This project transforms raw advertising data from three major platforms — Facebook, Google Ads and TikTok — into a unified data model and an interactive three-page Power BI dashboard that enables cross-channel performance analysis.
 
----
 
-## Repository Structure
-
-```
-├── data/
-│   ├── 01_facebook_ads.csv
-│   ├── 02_google_ads.csv
-│   └── 03_tiktok_ads.csv
-├── sql/
-│   └── unified_marketing_model.sql
-├── dashboard/
-│   └── Improvado_Marketing_Analysis_Hari.pbix
-├── docs/
-│   └── Improvado_Video_Script_Hari.docx
-└── README.md
-```
-
----
 
 ## Data Sources
 
@@ -191,12 +173,6 @@ Shift budget from pure awareness campaigns (Awareness GenZ at $13.00 CPA) toward
 2. Open in Power BI Desktop (free download at powerbi.microsoft.com)
 3. The data is embedded — no connection setup needed
 4. Navigate between the 3 pages using the page tabs at the bottom
-
----
-
-## Live Dashboard
-
-[View live dashboard on Power BI Service](#) ← *(add your published link here)*
 
 ---
 
