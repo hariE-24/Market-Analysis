@@ -175,5 +175,3 @@ Shift budget from pure awareness campaigns (Awareness GenZ at $13.00 CPA) toward
 4. Navigate between the 3 pages using the page tabs at the bottom
 
 ---
-
-*Submitted as part of the Improvado Marketing Data Analyst technical assessment.*
